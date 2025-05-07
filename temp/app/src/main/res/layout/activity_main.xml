@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#101f10"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/randy_avatar" />
+
+    <TextView
+        android:id="@+id/chat_output"
+        android:textColor="#00ff00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Welcome to TegridyAI with Randy!\n" />
+
+    <EditText
+        android:id="@+id/input_text"
+        android:hint="Say something..."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:background="#222" />
+
+    <Button
+        android:id="@+id/send_btn"
+        android:text="Send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#228822"
+        android:textColor="#ffffff" />
+</LinearLayout>
