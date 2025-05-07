@@ -9,22 +9,22 @@
 9        android:targetSdkVersion="33" />
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 12        android:name="com.tegridyai.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.tegridyai.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
 17    <application
 17-->/data/data/com.termux/files/home/TegridyAIApp/app/src/main/AndroidManifest.xml:3:5-20:19
 18        android:allowBackup="true"
 18-->/data/data/com.termux/files/home/TegridyAIApp/app/src/main/AndroidManifest.xml:4:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] /root/.gradle/caches/transforms-3/4b346bdb2a636a7c2d646e0226e6cd41/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="true"
 22        android:icon="@mipmap/ic_launcher"
@@ -56,25 +56,25 @@
 35        </activity>
 36
 37        <provider
-37-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+37-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 38            android:name="androidx.startup.InitializationProvider"
-38-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+38-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
 39            android:authorities="com.tegridyai.app.androidx-startup"
-39-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+39-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
 40            android:exported="false" >
-40-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+40-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
 41            <meta-data
-41-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+41-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 42                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-42-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+42-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
 43                android:value="androidx.startup" />
-43-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+43-->[androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-3/ed25a7118ee3ce8f53b9073eba3c3476/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
 44            <meta-data
-44-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+44-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
 45                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-45-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+45-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
 46                android:value="androidx.startup" />
-46-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+46-->[androidx.lifecycle:lifecycle-process:2.4.1] /root/.gradle/caches/transforms-3/b8b69fe4aa4fd4846bc93c174a1c3e04/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 47        </provider>
 48    </application>
 49
